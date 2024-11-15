@@ -2,11 +2,11 @@
 <head>
 <style>
 body {
-    background: lightgreen;
+    background: lightblue;
     font-family: Verdana;
 }  
 #content {
-    background: lightyellow;
+    background: darkblue;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -30,24 +30,23 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Sarah Gothard</h1>
-        <h2>Freshman in Greenville, South Carolina</h2>
+        <h1>Adam Gunther</h1>
+        <h2>Sophomore in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
-            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a sophomore business finance major at Bob Jones Univesity. I am the treasurer 
+            for the Alpha Theta Pi Razorbacks. I am also completing a certificate for youth ministry.</p>
          <p>
-            I attend Cornerstone Baptist Church in Greer SC. My favorite website is  
-            <a href="https://mobilehymns.org/">here</a>, and you can email me  
-            <a href="mailto:sgothard@bju.edu">here</a>.
+            I attend Morningside Baptist Church in Greenville SC.  
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            I enjoy playing soccer and many different sports, and I love history.
+            I have been to Iceland and Mexico and they were awesome trips.
          </p>
         <h3>EDUCATION</h3>
-        Computer Science<br />
+        Business Finance<br />
         Bob Jones University<br />
         Example image:
-        <img src="https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png" />
+        < img src="https://th.bing.com/th/id/OIP.L2ukur7tSUqIqfluWYfwmwHaEK?w=328&h=184&c=7&r=0&o=5&pid=1.7"/>
     </div>
 </body>
 </html>
